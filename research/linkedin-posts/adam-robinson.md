@@ -1,7 +1,7 @@
 # Adam Robinson
 
 **LinkedIn:** [linkedin.com/in/retentionadam](https://www.linkedin.com/in/retentionadam/)
-**Followers:** 150,000+ (as of ~March 2026, per Post 8; current count is higher)
+**Followers:** 154,514
 **Angle for B2B SaaS:** Founder of RB2B / Retention.com — living proof of founder-led content; posts daily, builds in public, and grew a large audience before the product even existed.
 
 **Bio (from LinkedIn):**
