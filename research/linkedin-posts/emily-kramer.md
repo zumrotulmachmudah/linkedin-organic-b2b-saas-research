@@ -9,7 +9,7 @@ Writes MKT1 Newsletter (Top 20 Business Substack) and markets marketing to marke
 
 Previously led and built marketing teams from the ground up at Asana, Carta, Astro (acquired by Slack), and Ticketfly. Has been the first-ish marketer 4 times and led teams through hypergrowth and at scale.
 
-**Why this expert:** Chosen as the research/benchmarking counterpoint to the practitioners on this list. Her data from 100 high-growth B2B startups (Post 2, Post 4) provides the empirical foundation for claims that other experts make from intuition — specifically: founder personal brands beat company pages below $100M raised, and the LinkedIn flywheel compounds differently than paid channels. Her posts here skew toward B2B marketing broadly (website strategy, team sizing, AI tools), which reflects her actual positioning as a B2B marketing operator and researcher, not a LinkedIn-specific content coach. The data posts are the primary reason she's included.
+**Why this expert:** Chosen as the empirical counterpoint to the practitioners on this list. While other experts share tactics from lived experience, Kramer publishes original research on how B2B companies actually behave on LinkedIn — her data from 100+ high-growth startups puts hard numbers on questions everyone else answers from intuition: at what funding stage does the founder's personal brand matter more than the company page? How does organic content compound into pipeline over time? Her MKT1 Newsletter is itself a live case study of the LinkedIn-to-email flywheel this playbook describes.
 
 ---
 
