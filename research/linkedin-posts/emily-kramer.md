@@ -2,14 +2,14 @@
 
 **LinkedIn:** [linkedin.com/in/emilykramer](https://www.linkedin.com/in/emilykramer/)
 **Followers:** 50,505
-**Angle for B2B SaaS:** Former marketing leader at Carta, Asana, and Astro (acquired by Slack) — now runs MKT1 Newsletter (Top 20 Business Substack), sharing B2B startup marketing frameworks and the "LinkedIn flywheel" concept.
+**Angle for B2B SaaS:** The data research lens. While most experts on this list teach LinkedIn content from a practitioner standpoint, Emily Kramer provides something different: original research on how B2B companies actually behave on LinkedIn — follower growth benchmarks, team sizing data, and channel strategy across 100+ startups. Her MKT1 Newsletter (Top 20 Business Substack) is an owned channel built on the same "create once, distribute across LinkedIn + email" model this playbook covers. Included because her data answers questions the other experts only address anecdotally: at what company stage does founder personal brand matter most? What does the LinkedIn flywheel actually look like at scale?
 
 **Bio (from LinkedIn):**
 Writes MKT1 Newsletter (Top 20 Business Substack) and markets marketing to marketers — and non-marketers too. Currently helps startups build marketing through content (MKT1 Newsletter and Dear Marketers podcast), advising marketing leaders and founders at B2B startups, and investing.
 
 Previously led and built marketing teams from the ground up at Asana, Carta, Astro (acquired by Slack), and Ticketfly. Has been the first-ish marketer 4 times and led teams through hypergrowth and at scale.
 
-**Why this expert:** Former marketing leader at Carta, Astro (acquired by Slack), and Asana — all top-tier B2B SaaS companies. Through MKT1, she shares B2B startup marketing frameworks, including the "LinkedIn flywheel" concept. Chosen because she combines real operator experience with the ability to explain the system behind it.
+**Why this expert:** Chosen as the research/benchmarking counterpoint to the practitioners on this list. Her data from 100 high-growth B2B startups (Post 2, Post 4) provides the empirical foundation for claims that other experts make from intuition — specifically: founder personal brands beat company pages below $100M raised, and the LinkedIn flywheel compounds differently than paid channels. Her posts here skew toward B2B marketing broadly (website strategy, team sizing, AI tools), which reflects her actual positioning as a B2B marketing operator and researcher, not a LinkedIn-specific content coach. The data posts are the primary reason she's included.
 
 ---
 
