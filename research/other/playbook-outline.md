@@ -16,6 +16,9 @@ Key steps before publishing anything:
 - Clarify your positioning at the "homepage level": if a stranger reads your post, do they know exactly who you serve and what you stand for? (Anthony Pierri)
 - Know that founders who need to be convinced to post usually never will — genuine interest in the craft matters (Tommy Clark)
 
+> "Founders who need to be 'convinced' to take content seriously likely never will. I've had dozens and dozens of these conversations over the course of the last three years building my agency... Earlier on in the agency's lifecycle, I'd have spent more time and energy convincing them of the platform's benefit. Now, this mindset is an immediate disqualifier."
+> — Tommy Clark ([source](https://www.linkedin.com/posts/tclarkmedia_if-i-were-a-head-of-marketing-of-a-hot-b2b-activity-7450944325766660096-VUeB))
+
 ---
 
 ## 2. The Core Format: Native Zero-Click Content
@@ -35,6 +38,9 @@ What zero-click content looks like in practice:
 - The narrative arc completes inside the post; links are additive, not required
 - Even if you're promoting a newsletter or podcast, lead with a complete idea
 
+> "Zero-click content is content that's so complete, the reader doesn't need to go anywhere else. The value is entirely self-contained. This isn't just good content strategy — it's what the algorithm rewards."
+> — Amanda Natividad ([source](https://www.linkedin.com/in/amandanat/))
+
 ---
 
 ## 3. The Founder-Led Content Advantage
@@ -52,6 +58,9 @@ Why founder-led works:
 - People trust people more than brands
 - The algorithm rewards personal accounts with better organic reach than company pages
 - Founder authenticity is a distribution moat — harder to fake, harder to replicate
+
+> "Is it even possible to grow a LinkedIn following for a company account these days? Looks like yes, if you have raised a bunch of money and have some brand awareness... Under $100M raised, the founder's following beats the company's. Then it flips. By $100M+ raised, the company page pulls ahead. By $1B+ raised, it's 6.8x the founder's."
+> — Emily Kramer ([source](https://www.linkedin.com/posts/emilykramer_is-it-even-possible-to-grow-a-linkedin-following-activity-7457122402343342080-4dxT))
 
 What this means operationally:
 - Prioritize the founder's LinkedIn over the company page, especially early
@@ -127,6 +136,9 @@ Once a reader gets past the hook, post structure determines whether they engage,
 - The best accounts rotate: list post → hot take → meme/image → carousel → short video → long-form → repeat
 - Varying format signals you're human, not a content machine
 
+> "What's the 'best' posting cadence on LinkedIn?... I also think it is OK to post less in a week if you have less to say... There is a time to thug it out and repost an old winner or write a quick, scrappy piece to get a post up, but I do believe varying posting cadence along with format lets your audience know you're human."
+> — Tommy Clark ([source](https://www.linkedin.com/posts/tclarkmedia_whats-the-best-posting-cadence-on-linkedin-activity-7452360599705120768-DOuu))
+
 ---
 
 ## 6. Posting Cadence and Consistency
@@ -144,6 +156,9 @@ The consensus cadence from the practitioners in this research:
 - Repurpose old winners: Tommy Clark explicitly endorses reposting top-performing content after 6–8 weeks, sometimes copy-paste, sometimes minor rewording
 - "Repost old winners" appears in Ross Simmonds, Tommy Clark, and is implied in Dave Gerhardt's approach
 - Adam Robinson's cadence: documented in real-time, nearly daily, especially during product launches and growth milestones
+
+> "During busy weeks, repurpose old winners. You can reword them slightly, or even copy-paste an outlier post from months back. I've done this more than once. Usually hits."
+> — Tommy Clark ([source](https://www.linkedin.com/posts/tclarkmedia_the-debate-about-whether-or-not-posting-frequency-activity-7440048295915388928-2s_P))
 
 **Posting time and the algorithm:**
 - Richard van der Blom: the first 60 minutes of a post's life are critical — early engagement signals quality to the algorithm
@@ -169,6 +184,9 @@ Richard van der Blom is the deepest expert on this topic in the list. Key algori
 - External links in the main post text (move to first comment if needed)
 - Low engagement velocity — posts that get ignored early get buried
 - Copy-pasted content with identical text from another post (minor variations help)
+
+> "The reason why video is booming is because literally LinkedIn tweaked the algorithm last year when they introduced the mobile feed. And it's also important to understand that LinkedIn is a business, and their revenue model is based on people spending time on LinkedIn. So everything that keeps people on LinkedIn will be rewarded by the algorithm."
+> — Richard van der Blom ([source](https://www.linkedin.com/in/richardvanderblom/))
 
 **The "golden hour" strategy:**
 - Post, then actively engage with every comment in the first hour
@@ -203,6 +221,9 @@ Devin Reed at Gong made this the clearest: he reframed the content team as a rev
 - Each organic post feeds the top of the flywheel; the flywheel compounds over 12–18 months
 - Don't expect immediate revenue from content — the payoff is in month 6–18, not week 1–4
 
+> "You should apply learnings from organic to paid and from paid to organic... Build this out and all of your learnings compound. Better audience data yields better ad performance, which produces better signals, which makes audiences even better."
+> — Emily Kramer ([source](https://www.linkedin.com/posts/emilykramer_when-i-posted-about-paid-on-linkedin-a-few-activity-7465468921148592128-Gb1o))
+
 ---
 
 ## 9. Distribution Beyond LinkedIn: Create Once, Distribute Forever
@@ -215,6 +236,9 @@ Ross Simmonds built his entire agency and personal brand on this insight: most c
 1. LinkedIn post → newsletter excerpt → Twitter/X thread → short-form video → podcast summary
 2. One strong post can become 5–10 pieces of content across platforms
 3. "Create once, distribute forever" doesn't mean spam — it means format-shifting for different audiences
+
+> "You just can't keep creating things and hoping that the world will be yours. Content marketing is a two-word industry. You have to market the content."
+> — Ross Simmonds ([source](https://www.linkedin.com/in/rosssimmonds/))
 
 **Cross-platform considerations:**
 - Reddit is increasingly influential in B2B SaaS buying decisions (Ross Simmonds: 1-in-5 Google searches now adds "Reddit")
@@ -250,6 +274,9 @@ Across ~80+ LinkedIn posts collected from 10 experts, these patterns appear cons
 - External link posts ("great article, link in bio")
 - Company milestone posts without a lesson attached
 - Content that could have been written by anyone — lack of point of view
+
+> "AI has commoditized 'value' content. I could get away with posting something like 'Here are five tips for B2B founders to grow on LinkedIn' a couple of years back. Not now. Value content still works, but you have to deliver that value with something else: a story, tasteful humor, etc."
+> — Tommy Clark ([source](https://www.linkedin.com/posts/tclarkmedia_i-spend-most-of-my-days-on-linkedin-or-talking-activity-7443307864758071296-RnjM))
 
 ---
 
