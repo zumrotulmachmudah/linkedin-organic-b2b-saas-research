@@ -38,8 +38,8 @@ What zero-click content looks like in practice:
 - The narrative arc completes inside the post; links are additive, not required
 - Even if you're promoting a newsletter or podcast, lead with a complete idea
 
-> "Zero-click content is content that's so complete, the reader doesn't need to go anywhere else. The value is entirely self-contained. This isn't just good content strategy — it's what the algorithm rewards."
-> — Amanda Natividad ([source](https://www.linkedin.com/in/amandanat/))
+> "When I talk about zero-click marketing, I often say you need to build algorithmic capital and spend it wisely... Every zero-click post (the kind with standalone value and no links) builds that capital."
+> — Amanda Natividad ([source](https://www.linkedin.com/posts/amandanat_when-i-talk-about-zero-click-marketing-i-activity-7354525899658055680-2UZK))
 
 ---
 
@@ -185,8 +185,8 @@ Richard van der Blom is the deepest expert on this topic in the list. Key algori
 - Low engagement velocity — posts that get ignored early get buried
 - Copy-pasted content with identical text from another post (minor variations help)
 
-> "The reason why video is booming is because literally LinkedIn tweaked the algorithm last year when they introduced the mobile feed. And it's also important to understand that LinkedIn is a business, and their revenue model is based on people spending time on LinkedIn. So everything that keeps people on LinkedIn will be rewarded by the algorithm."
-> — Richard van der Blom ([source](https://www.linkedin.com/in/richardvanderblom/))
+> "The reason why video is booming is because literally LinkedIn tweaked the algorithm last year when they introduced the mobile feed... it's mainly vertical videos that perform very well and also videos that are natively uploaded to LinkedIn. So please don't make the mistake to go to YouTube or Vimeo because then it becomes an external link post."
+> — Richard van der Blom ([source](research/youtube-transcripts/richard-van-der-blom/how-to-use-linkedins-2025-algorithm-to-attract-clients-and-candidates-richard-va.md))
 
 **The "golden hour" strategy:**
 - Post, then actively engage with every comment in the first hour
@@ -237,8 +237,8 @@ Ross Simmonds built his entire agency and personal brand on this insight: most c
 2. One strong post can become 5–10 pieces of content across platforms
 3. "Create once, distribute forever" doesn't mean spam — it means format-shifting for different audiences
 
-> "You just can't keep creating things and hoping that the world will be yours. Content marketing is a two-word industry. You have to market the content."
-> — Ross Simmonds ([source](https://www.linkedin.com/in/rosssimmonds/))
+> "You just can't keep creating things and hoping that the world will be yours. Content marketing is a two-word industry. You have to market the content. You can't just press publish and assume that the world will be yours."
+> — Ross Simmonds ([source](research/youtube-transcripts/ross-simmonds/b2b-content-marketing-distribution-with-ross-simmonds-founder-and-ceo-of-foundat.md))
 
 **Cross-platform considerations:**
 - Reddit is increasingly influential in B2B SaaS buying decisions (Ross Simmonds: 1-in-5 Google searches now adds "Reddit")
